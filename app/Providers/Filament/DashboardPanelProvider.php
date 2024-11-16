@@ -63,7 +63,6 @@ class DashboardPanelProvider extends PanelProvider
                     ->navigationGroup('Content')
                     ->navigationSort(3)
                     ->navigationCountBadge()
-                    ->registerNavigation(false)
                     ->defaultListView('grid' || 'list')
                 // ->resource(\App\Filament\Resources\CustomMediaResource::class)
             ]);
