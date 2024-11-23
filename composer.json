@@ -12,7 +12,9 @@
         "laravel/jetstream": "^5.3",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
-        "livewire/livewire": "^3.0"
+        "livewire/livewire": "^3.5",
+        "matildevoldsen/wire-comments": "^0.5.1",
+        "robsontenorio/mary": "^1.41"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^3.2",
